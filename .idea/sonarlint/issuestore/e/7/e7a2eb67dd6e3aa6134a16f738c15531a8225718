@@ -1,0 +1,30 @@
+
+Ÿ
+java:S1192"}Define a constant instead of duplicating this literal "message: Invalid CPF number. Please, check it and try again." 4 times.(†ªÜÆúÿÿÿÿ8ûÙÂã·0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìëÕŠüÿÿÿÿ8üÙÂã·0
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Çµí‘
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(êÏ›¢ıÿÿÿÿ8ÛÂã·0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ã çŒşÿÿÿÿ8…»Ãã·0
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¥²ƒÒ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¥²ƒÒ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¥²ƒÒ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¥²ƒÒ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“—¢ï8ˆ»Ãã·0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(à¤š'8‰»Ãã·0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ªÜÆúÿÿÿÿ8Œ»Ãã·0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€°ïıÿÿÿÿ8»Ãã·0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(†ªÜÆúÿÿÿÿ8»Ãã·0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ü¸–ü8»Ãã·0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(†ªÜÆúÿÿÿÿ8‘»Ãã·0
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(¨Í½8ÂíÃã·0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(†ªÜÆúÿÿÿÿ8öÄã·0
+T	java:S106C"9Replace this use of System.out or System.err by a logger.(¨Í½8÷Äã·0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªéÍúÿÿÿÿ8•¬Åã·0
